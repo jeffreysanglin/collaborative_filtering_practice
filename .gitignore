@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # IPython/Data
-.ipynb_checkpoints
+*.ipynb_checkpoints
 *.csv
 
 # Distribution / packaging
