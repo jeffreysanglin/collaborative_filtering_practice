@@ -9,6 +9,7 @@ __pycache__/
 # IPython/Data
 *.ipynb_checkpoints
 *.csv
+/data/*
 
 # Distribution / packaging
 .Python
